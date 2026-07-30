@@ -1,0 +1,6 @@
+,Accuracy,Macro_F1
+MLP,0.548,0.483
+SVM,0.527,0.43
+LogisticRegression,0.525,0.419
+RandomForest,0.53,0.413
+NaiveBayes,0.496,0.391

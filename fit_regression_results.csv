@@ -1,0 +1,5 @@
+,RMSE,MAE
+RandomForestRegressor,0.765,0.65
+SVR,0.781,0.64
+MLPRegressor,0.906,0.676
+LinearRegression,0.934,0.758
