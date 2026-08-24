@@ -1,0 +1,9 @@
+job_id,job_title,target_category,adjacent_category,unrelated_category,required_skills,min_years_experience,required_education,preferred_certifications
+J01,Software Engineer,INFORMATION-TECHNOLOGY,ENGINEERING,CHEF,"python,java,sql,git,rest api,agile,cloud",2,Bachelor,"AWS,Oracle Java"
+J02,HR Generalist,HR,BUSINESS-DEVELOPMENT,AVIATION,"recruitment,employee relations,payroll,onboarding,hris",3,Bachelor,"SHRM,PHR"
+J03,Financial Analyst,FINANCE,BANKING,FITNESS,"financial modeling,excel,forecasting,budgeting,variance analysis",2,Bachelor,"CFA,CPA"
+J04,Fitness Program Coordinator,FITNESS,HEALTHCARE,BANKING,"program design,client assessment,group training,nutrition",1,Bachelor,"NASM,ACE"
+J05,Aviation Operations Officer,AVIATION,ENGINEERING,CHEF,"flight scheduling,regulatory compliance,ground operations,safety",3,Bachelor,"FAA,IATA"
+J06,Sales Executive,SALES,BUSINESS-DEVELOPMENT,AGRICULTURE,"lead generation,crm,negotiation,client relationship,quota",2,Bachelor,"none"
+J07,Chef de Cuisine,CHEF,HEALTHCARE,INFORMATION-TECHNOLOGY,"menu planning,food safety,kitchen management,inventory",4,Diploma,"ServSafe"
+J08,Accountant,ACCOUNTANT,FINANCE,DESIGNER,"bookkeeping,tax preparation,reconciliation,gaap,audit",2,Bachelor,"CPA"
